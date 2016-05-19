@@ -2,7 +2,7 @@
  - The Ruby API
    - http://ruby-doc.org
  - The free online version of *Programming Ruby: The Pragmatic Programmer's Guide*
-   -http://docs.ruby-doc.com/docs/ProgrammingRuby/
+   - http://docs.ruby-doc.com/docs/ProgrammingRuby/
  - A method that substitutes part of a string
    - string.replace()
  - Information about Ruby's regular expressions
